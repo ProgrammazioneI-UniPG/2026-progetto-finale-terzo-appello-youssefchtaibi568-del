@@ -2,11 +2,11 @@
 # Progetto-finale-2025-Cosestrane
 Progetto finale Programmazione Procedurale UniPG Informatica
 
-## Nome: 
+## Nome: Youssef
 
-## Cognome: 
+## Cognome: CHTAIBI
 
-## Matricola:
+## Matricola:393768
 
 ## Commenti/modifiche al progetto:
 
